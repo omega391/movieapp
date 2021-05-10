@@ -98,7 +98,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              'Text for web app'
+              'Text for web app and mobile development'
               ),
             Text(
               'Test Text for Flutter in Github!'
